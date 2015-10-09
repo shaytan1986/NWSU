@@ -1,0 +1,19 @@
+{
+  "name": "nwsu",
+  "version": "1.0.0",
+  "description": "Node Wellington SetterIpper",
+  "main": "nwsu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaytan1986/NWSU.git"
+  },
+  "author": "Gabe Tpwer",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/shaytan1986/NWSU/issues"
+  },
+  "homepage": "https://github.com/shaytan1986/NWSU"
+}
